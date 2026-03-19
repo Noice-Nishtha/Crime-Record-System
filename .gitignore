@@ -1,0 +1,7 @@
+# Compiled executables
+*.exe
+Crime_BST_test.exe
+Crime_BST.exe
+
+# VS Code settings
+.vscode/
